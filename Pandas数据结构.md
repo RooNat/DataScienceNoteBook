@@ -66,7 +66,7 @@ Status: Review 3
 
       ![image.png](https://raw.githubusercontent.com/RooNat/Myimages/main/2025/03/upgit_20250314_1741936843.png)
 
-   4. 给索引列指定名称：`obj4.**index.name** = ‘state’`
+   4. 给索引列指定名称：`obj4.index.name = ‘state’`
 
    5. **修改索引**：
 
@@ -199,5 +199,7 @@ Status: Review 3
 ![image.png](https://raw.githubusercontent.com/RooNat/Myimages/main/2025/03/upgit_20250314_1741936900.png)
 
 参考书籍：
+
 [1] 《Python for Data Analysis》
+
 [2] 《利用Python进行数据分析》
